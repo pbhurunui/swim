@@ -3,7 +3,7 @@ Data models for the Swimming Tournament Application.
 """
 from datetime import datetime, date
 from typing import Optional, Dict, List
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, field
 from enum import Enum
 
 
